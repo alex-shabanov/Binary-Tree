@@ -63,7 +63,5 @@ Add the BinaryTreeDataStructure folder to your Eclipse IDE project workspace.
 =========================
 ###Images of Binary Tree
 
-![alt tag](https://github.com/alex-shabanov/Binary-Tree/tree/master/Screenshots/binarytree3.png)
-![alt tag](https://github.com/alex-shabanov/Binary-Tree/tree/master/Screenshots/binarytree4.png)
-![alt tag](https://github.com/alex-shabanov/Binary-Tree/tree/master/Screenshots/binarytree6.png)
-![alt tag](https://github.com/alex-shabanov/Binary-Tree/tree/master/Screenshots/binarytree7.png)
+![alt tag](https://github.com/alex-shabanov/Binary-Tree/blob/master/Screenshots/binarytree3.png) ![alt tag](https://github.com/alex-shabanov/Binary-Tree/blob/master/Screenshots/binarytree4.png)
+![alt tag](https://github.com/alex-shabanov/Binary-Tree/blob/master/Screenshots/binarytree6.png) ![alt tag](https://github.com/alex-shabanov/Binary-Tree/blob/master/Screenshots/binarytree7.png)
