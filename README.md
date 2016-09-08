@@ -22,6 +22,8 @@ key are stored to the left side and the nodes with higher key in comparison to t
 to the right subtree. Insertion, removal and get methods are all done iteratively. This implementation of Binary
 Search Tree also includes iterator and freatures preorder, inorder, postorder, and level order traversals that
 are also done iteratively.
+This project also includes DisplayBST class that draws binary search tree using Java Graphics2D. This allows the
+user to see the tree that has just been created.
 ```
 =======================
 ###Methods implemented.
